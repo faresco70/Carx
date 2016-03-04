@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "carx-da4d1",
+    "project_number": "741053729244",
+    "name": "Carx"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741053729244:android:602aac2721363b90",
+        "client_id": "android:com.vatsal.android.carx",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.vatsal.android.carx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741053729244-kpcle4uebvo4ambls80anqp3hqj0h467.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vatsal.android.carx",
+            "certificate_hash": "B0F21FB7D505BB76F7FFB098617DC865E26877EC"
+          }
+        },
+        {
+          "client_id": "741053729244-nmkqm7rotbntp83kod2eb946rvdt0jq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Carx</string>
+    <string name="Google_Sign_In">Google Sign In</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Driver_Score"><b>Driver Score</b></string>
+    <string name="Hard_Breaking"><b>Hard Breaking</b></string>
+    <string name="Rapid_Accels"><b>Rapid Accels</b></string>
+    <string name="Speeding"><b>Speeding</b></string>
+    <string name="Idle_Time"><b>Idle Time</b></string>
+    <string name="Obd2_List">Obd2 List</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_obd2">OBD2Activity</string>
+
+</resources>
